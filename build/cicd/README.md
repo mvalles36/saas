@@ -4,7 +4,7 @@ cicd
 
 _cicd_ is a simple command line tool that facilitates build and deployment for your project. The goal is to help enable 
 developers to easily setup a continuous build pipeline using [GitLab CI/CD](https://docs.gitlab.com/ee/ci/) and code 
-driven deployment. 
+driven deployment.
 
 <!-- toc -->
 
